@@ -7,6 +7,4 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-[CV](http://amromero92.github.io/files/cv_amr_jan25.pdf)
+[CV]('http://amromero92.github.io/files/cv_amr_jan25.pdf')
