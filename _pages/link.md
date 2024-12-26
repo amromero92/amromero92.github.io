@@ -15,6 +15,5 @@ redirect_from:
 * <a href="https://www.gentedelpuerto.com/2021/01/26/4-602-antonio-marquez-romero-fisico-nuclear-en-eeuu/">My hometown made an article about me! (in Spanish)</a>
 
 
-## Stuff I find useful, perhaps you find it useful too
-
-TBA
+%## Stuff I find useful, perhaps you find it useful too
+%TBA
