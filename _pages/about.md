@@ -7,9 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Summary (as of January 2023)
+Short bio (as of January 2025)
 ======
-My research is focused on nuclear-structure theory, the understanding of the basic building units of the universe using first principles and fundamental symmetries. During my PhD project my main efforts went towards the study of the effects of isoscalar pairing correlations in nuclei using a simplistic SO(8) algebraic interaction model with the Hartree-Fock-Bogoliubov mean-field plus symmetry-restoration techniques. During my first postdoc, at the University of North Carolina at Chapel Hill, USA, I was focused on the study of the nuclear matrix elements of neutrinoless double-beta decay, developing an algorithm to obtain the minimal bases that generate the ground-state wavefunctions of the relevant nuclei involved in this second-order process for a calculation using the Generator Coordinate Method. In addition, I implemented a Variational Quantum Eigensolver to find nuclear ground states using the phenomenological valence-space interactions of she shell-model for its physical realization in a near-term quantum computer. Currently, I work as a postdoctoral researcher at the University of Barcelona, Spain, where I continue in the aforementioned topics. Because of the captivating relevance of these branches, I started a new collaboration with the Barcelona Supercomputing Center and attracted young scientists for their dissertation projects. In general, I work with many-body methods specifically designed for the description of nuclear structure, with the help of other cutting-edge state-of-the-art tools such as bayesian statistics or machine learning.
+I received the B.Sc. degree in physics from the University of Seville, Seville, Spain, in 2014, the M.Sc. degree in physics and mathematics (FisyMat) from the University of Granada, Granada, Spain,
+in 2015, and the Ph.D. degree in physics from the University of York, York, U.K., in 2020.
+
+From 2020 to 2022, I was a Postdoctoral Researcher with the University of North Carolina at Chapel Hill, Chapel Hill, NC, USA. From 2022 to 2023, I was a Postdoctoral Researcher wth the University of Barcelona, Barcelona, Spain. 
+
+I officially joined the Quantum Application Research Group, Fujitsu Research of Europe Ltd., as a Senior Researcher, in November 2023.
 
 Reality
 ======
